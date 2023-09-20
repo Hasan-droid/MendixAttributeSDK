@@ -1,0 +1,20 @@
+{
+  "name": "mendixattributesdk",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "env": "^0.0.2",
+    "express": "^4.18.2",
+    "mendixmodelsdk": "^4.77.0",
+    "mendixplatformsdk": "^5.1.2",
+    "typescript": "^5.1.6"
+  }
+}
